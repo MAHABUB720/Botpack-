@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "anh",
   version: "3.1.1",
-  permssion: 0,
+  hasPermssion: 0,
   credits: "Nayan",
   description: "Get fuck",
  usePrefix: true,
