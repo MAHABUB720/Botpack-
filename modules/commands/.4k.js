@@ -2,7 +2,7 @@ module.exports = {
 config: {
     name: "4k",
     version: "1.0.0",
-    permission: 0,
+    hasPermission: 0,
     credits: "Nayan",
     description: "",
     usePrefix: 'awto',
