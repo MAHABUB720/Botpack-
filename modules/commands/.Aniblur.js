@@ -5,7 +5,7 @@ module.exports.config = {
     credits: "𝚉𝚒𝚊 𝚁𝚎𝚒𝚗",
     description: "anime profile ",
   usePrefix: true,
-    category: "random-img",
+    commandCategory: "random-img",
     usages: "send message",
     cooldowns: 5,
     dependencies: {
