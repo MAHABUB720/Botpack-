@@ -4,8 +4,8 @@ module.exports.config = {
   hasPermssion: 2,
   credits: "Nayan",
   description: "Get fuck",
- usePrefix: true,
-  category: "img",
+  usePrefix: true,
+  commandCategory: "img",
   usages: "[@mention]",
   cooldowns: 5,
   dependencies: {
