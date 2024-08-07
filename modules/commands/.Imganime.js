@@ -4,8 +4,8 @@ module.exports.config = {
     hasPermssion: 0,
     credits: "𝙈𝙧𝙏𝙤𝙢𝙓𝙭𝙓",
     description: "See all photos on bot",
-   usePrefix: true,
-    category: "random-img",
+    usePrefix: true,
+    commandCategory: "random-img",
     usages: "image",
     cooldowns: 0,
     envConfig: {
