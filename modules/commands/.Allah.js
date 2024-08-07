@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "allah", 
   version: "1.0.0", 
-  permission: 0,
+  hasPermission: 0,
   credits: "Imran Ahmed",
   description: "example",
   usePrefix: false,
