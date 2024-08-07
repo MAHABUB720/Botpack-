@@ -5,7 +5,7 @@ module.exports.config = {
   credits: "Imran Ahmed_X_Mahabub Rahman",
   description: "example",
  usePrefix: false,
-  category: "Fun", 
+  commandCategory: "Fun", 
   usages: "user", 
   cooldowns: 5,
   dependencies: {
