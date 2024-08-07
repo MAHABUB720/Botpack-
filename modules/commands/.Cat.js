@@ -4,8 +4,8 @@ module.exports.config = {
     hasPermssion: 0,
     credits: "MAHABUB RAHMAN",
     description: "anime WALLPAPER ",
-  usePrefix: true,
-    category: "random-img",
+    usePrefix: true,
+    commandCategory: "random-img",
     usages: "send message",
     cooldowns: 5,
     dependencies: {
