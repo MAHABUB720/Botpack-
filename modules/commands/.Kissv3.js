@@ -5,7 +5,7 @@ module.exports.config = {
     credits: "John Lester",
     description: "kiss",
     usePrefix: true,
-    command: "img",
+    commandCategory: "img",
     usages: "[@mention]",
     cooldowns: 5,
     dependencies: {
