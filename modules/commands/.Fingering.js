@@ -1,11 +1,11 @@
 module.exports.config = {
   name: "fingering",
   version: "3.1.1",
- hasPermssion: 2,
+  hasPermssion: 2,
   credits: "Nayan",
   description: "Get fuck",
-usePrefix: true,
-  category: "img",
+  usePrefix: true,
+  commandCategory: "img",
   usages: "[@mention]",
   cooldowns: 5,
   dependencies: {
