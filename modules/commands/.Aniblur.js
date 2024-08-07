@@ -1,7 +1,7 @@
 module.exports.config = {
     name: "aniblur",
     version: "1.0.0",
-    permssion: 0,
+    hasPermssion: 0,
     credits: "𝚉𝚒𝚊 𝚁𝚎𝚒𝚗",
     description: "anime profile ",
   usePrefix: true,
