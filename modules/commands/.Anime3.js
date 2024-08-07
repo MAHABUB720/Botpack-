@@ -4,8 +4,8 @@ module.exports.config = {
     hasPermssion: 0,
     credits: "ZiaRein",
     description: "anilist",
-  usePrefix: true,
-    category: "random-img",
+    usePrefix: true,
+    commandCategory: "random-img",
     usages: "send message",
     cooldowns: 5,
     dependencies: {
