@@ -1,5 +1,5 @@
 /**
-* @author ProCoderMew
+* @author mahabub 
 * @warn Do not edit code or edit credits
 */
 
@@ -10,7 +10,7 @@ module.exports.config = {
     credits: "Mahabub Rahman",
     description: "",
     usePrefix: true,
-    category: "Love",
+    commandCategory: "Love",
     usages: "[tag]",
     cooldowns: 5,
     dependencies: {
