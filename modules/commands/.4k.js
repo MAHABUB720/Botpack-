@@ -6,7 +6,7 @@ config: {
     credits: "Nayan",
     description: "",
     usePrefix: 'awto',
-    category: "prefix",
+    commandCategory: "prefix",
     usages: "[model]",
     cooldowns: 10,
     dependencies: {
