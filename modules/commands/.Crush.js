@@ -4,8 +4,8 @@ module.exports.config = {
     hasPermssion: 0,
     credits: "Candy",
     description: "mention partner",
-  usePrefix: true,
-    category: "Love",
+    usePrefix: true,
+    commandCategory: "Love",
     usages: `Please tag 1 person\n\nHow to use?\n${global.config.PREFIX}crush <@tag>\n\nExample:\n${global.config.PREFIX}crush @name\n`,
     cooldowns: 5,
     dependencies: {
