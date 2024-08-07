@@ -2,7 +2,7 @@ module.exports = {
 config: {
   name: "album",
   version: "1.0.2",
-  permission: 0,
+ hasPermission: 0,
   credits: "Imran",
   description: "",
   usePrefix: true,
