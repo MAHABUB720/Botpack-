@@ -5,7 +5,7 @@ module.exports.config = {
     credits: "ZiaRein",
     description: "random dp",
   useprefix: true,
-    category: "random-img",
+    commandCategory: "random-img",
     usages: "send message",
     cooldowns: 5,
     dependencies: {
