@@ -1,12 +1,12 @@
 const fs = require("fs");
 module.exports.config = {
 	name: "sad06649",
-  version: "1.1.1",
+        version: "1.1.1",
 	hasPermssion: 0,
 	credits: "John Lester", 
 	description: "Just Respond",
-usePrefix: true,
-	category: "no prefix",
+        usePrefix: true,
+	commandCategory: "no prefix",
     cooldowns: 5, 
 };
 
