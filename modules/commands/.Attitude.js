@@ -5,7 +5,7 @@ module.exports.config = {
   credits: "Nayan",
   description: "example",
   usePrefix: false,
-  category: "Fun", 
+  commandCategory: "Fun", 
   usages: "user", 
   cooldowns: 5,
   dependencies: {
