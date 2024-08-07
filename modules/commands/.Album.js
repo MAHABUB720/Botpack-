@@ -6,7 +6,7 @@ config: {
   credits: "Imran",
   description: "",
   usePrefix: true,
-  category: "admin",
+  commandCategory: "admin",
   usages: "",
     cooldowns: 5,
 }
