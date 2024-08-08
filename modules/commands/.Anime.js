@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "anime", 
+  name: "anime", 
   version: "1.0.0", 
   hasPermission: 0,
   credits: "Nayan",
