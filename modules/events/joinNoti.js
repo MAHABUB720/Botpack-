@@ -52,7 +52,7 @@ module.exports.run = async function({ api, event, Users }) {
     //api.changeNickname(`𝗕𝗢𝗧 ${(!global.config.BOTNAME) ? "Buddy" : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
     
     let gifUrl = 'https://i.imgur.com/4HMupHz.gif';
-let gifPath = __dirname + '/cache/join/join.gif';
+let gifPath = __dirname + '/cache/join/received_1720122795185792.mp4';
 
 axios.get(gifUrl, { responseType: 'arraybuffer' })
 .then(response => {
