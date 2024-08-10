@@ -2,7 +2,7 @@
   "name": "botpack",
   "version": "1.7.6",
   "description": "A Simple BotPack for starting a Messenger chatbot.",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
      "start": "node --trace-warnings --use_strict --async-stack-traces main.js",
     "login": "node login",
