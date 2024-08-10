@@ -4,7 +4,9 @@
   "description": "A Simple BotPack for starting a Messenger chatbot.",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "start": "node --trace-warnings --use_strict --async-stack-traces main.js",
+    "login": "node login",
+    "test": "node --trace-warnings --use_strict --async-stack-traces main"
   },
   "presets": [
     "@babel/preset-env"
